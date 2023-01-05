@@ -18,7 +18,7 @@
 
 ## step 3 克隆repo到本地
 
-    sudo git clone https://gitee.com/csodajet/reproducing-shrew-attack
+    sudo git clone https://github.com/byerose/reproducing_LDoS
 
 ## step 4 进入到repo路径
 
